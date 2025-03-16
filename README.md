@@ -25,3 +25,4 @@
 
 ## Задание 2
 Ссылка на диаграмму DrawIO
+https://github.com/AlexanderSkySych/microfrontends/blob/mesto/arch_template_task2.drawio
